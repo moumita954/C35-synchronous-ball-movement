@@ -1,1 +1,2 @@
-# C35-synchronous-ball-movement
+# synchronousBallMovement
+Ball moving synchronously
